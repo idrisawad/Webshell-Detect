@@ -4,9 +4,9 @@ This script will search for files with certain extensions and keywords that are 
 
 The script uses the `csv` module to write the results to a file called "webshell_detection_results.csv". It writes the "File Path" and "Keywords Found" in the csv file. The `DictWriter` class is used to write the results as a dictionary, with the keys of the dictionary matching the fieldnames defined at the beginning of the script.
 
-*It's important to note that this script is for demonstration purposes only and the results should be carefully checked and validated before taking any action. Additionally, it's important to understand that using this script without permission on a web server you don't own could be considered illegal and/or unethical.
+* It's important to note that this script is for demonstration purposes only and the results should be carefully checked and validated before taking any action. Additionally, it's important to understand that using this script without permission on a web server you don't own could be considered illegal and/or unethical. *
 
-It's important to also note that, in order to use this script in a real scenario, you'll need to run this script with appropriate permissions (i.e. a user that has access to the files on the web server) and it's recommended to use this script alongside other security measures like a web application firewall and intrusion detection/prevention system.*
+* It's important to also note that, in order to use this script in a real scenario, you'll need to run this script with appropriate permissions (i.e. a user that has access to the files on the web server) and it's recommended to use this script alongside other security measures like a web application firewall and intrusion detection/prevention system. *
 
 #### Requirements #### 
 
