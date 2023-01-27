@@ -16,12 +16,12 @@ The script uses the `csv` module to write the results to a file called "webshell
 
 #### Usage ####
 
-Clone or download the script from the repository.
-Open a terminal and navigate to the directory where the script is located.
-Run the script by typing `python webshell_detect.py` in the terminal and press enter.
-The script will start to scan the web server directory and write the results to a file called `webshell_detection_results.csv`.
-The script will create a CSV file in the same directory where the script is located.
-Open the csv file to see the results.
+ 1. Clone or download the script from the repository.
+ 2. Open a terminal and navigate to the directory where the script is located.
+ 3. Run the script by typing `python webshell_detect.py` in the terminal and press enter.
+ 4. The script will start to scan the web server directory and write the results to a file called `webshell_detection_results.csv`.
+ 5. The script will create a CSV file in the same directory where the script is located.
+ 6. Open the csv file to see the results.
 
 #### Configuration ####
 The script can be configured by modifying the following variables:
